@@ -9,11 +9,11 @@ export const Footer = () => (
       <Details>
         <h2>Aligneer</h2>
         <span>
-          © All rights are reserved | {new Date().getFullYear()} | Made with{' '}
-          <span aria-label="love" role="img">
-            💖
+          © All rights are reserved | {new Date().getFullYear()} | Start aligning...{' '}
+          <span aria-label="push-pin" role="img">
+            📌
           </span>{' '}
-          by{' '}
+          with{' '}
           <a href="https://aligneer.com/?ref=portfolio-dev" rel="noopener noreferrer" target="_blank">
             Aligneer LLC
           </a>
